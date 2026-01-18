@@ -52,3 +52,6 @@ The system is **AI-powered** but uses clear **structured prompts and rules** for
 ## Run main.py
 You can run if from the folder "python main.py" or  
 uvicorn main:app --reload --host 0.0.0.0 --port 8000
+
+## install software using requirements.txt  
+pip install -r requirements.txt
